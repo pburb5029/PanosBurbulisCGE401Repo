@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 170076734}
-  m_IndirectSpecularColor: {r: 0.4394495, g: 0.48779517, b: 0.56803066, a: 1}
+  m_IndirectSpecularColor: {r: 0.4394496, g: 0.48779494, b: 0.5680309, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -514,8 +514,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 534669902}
-  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 0, y: 0, z: 50}
+  m_LocalRotation: {x: -0.09316527, y: 0.014035408, z: -0.0013134653, w: -0.9955509}
+  m_LocalPosition: {x: -0.5932734, y: 6.1401057, z: -17.416695}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1006,6 +1006,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 100000, guid: af29f0ea7e5403641b3b244ede69c374, type: 3}
+      propertyPath: m_Name
+      value: Propeller
+      objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: af29f0ea7e5403641b3b244ede69c374, type: 3}
       propertyPath: m_Name
       value: Player
@@ -1070,10 +1074,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Convex
       value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: af29f0ea7e5403641b3b244ede69c374, type: 3}
-      propertyPath: m_Name
-      value: Propeller
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: af29f0ea7e5403641b3b244ede69c374, type: 3}
