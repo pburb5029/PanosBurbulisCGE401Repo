@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+* Panos Burbulis
+* PlayerControllerX.cs
+* Challenge 1
+* Allows for player input to control character
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

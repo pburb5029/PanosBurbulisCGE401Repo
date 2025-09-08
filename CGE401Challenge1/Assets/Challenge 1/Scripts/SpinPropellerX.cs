@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+* Panos Burbulis
+* SpinPropellerX.cs
+* Challenge 1
+* Spins plane propeller
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

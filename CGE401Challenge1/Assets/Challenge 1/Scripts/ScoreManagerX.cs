@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+* Panos Burbulis
+* ScoreManagerX.cs
+* Challenge 1
+* Manages score. Ends game upon win or lose
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;

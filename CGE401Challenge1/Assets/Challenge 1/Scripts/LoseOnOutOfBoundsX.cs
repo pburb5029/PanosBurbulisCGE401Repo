@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+* Panos Burbulis
+* LoseOnOutOfBoundsX.cs
+* Challenge 1
+* Makes player lose when out of bounds
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

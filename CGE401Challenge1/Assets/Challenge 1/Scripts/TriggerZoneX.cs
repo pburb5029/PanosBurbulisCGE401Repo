@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+* Panos Burbulis
+* TriggerZoneX.cs
+* Challenge 1
+* Adds 1 score upon player entering trigger zone
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

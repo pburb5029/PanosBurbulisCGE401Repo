@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+* Panos Burbulis
+* FollowPlayerX.cs
+* Challenge 1
+* Controls camera to follow player
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
