@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+* Panos Burbulis
+* PlayerController.cs
+* Prototype 1
+* Allows for user input to control player
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

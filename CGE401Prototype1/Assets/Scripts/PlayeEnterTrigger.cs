@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+* Panos Burbulis
+* PlayerEnterTrigger.cs
+* Prototype 1
+* Makes player gain score on entering trigger zone
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 //using UnityEngine.UI;
