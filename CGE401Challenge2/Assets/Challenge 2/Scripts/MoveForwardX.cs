@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+* Panos Burbulis
+* MoveForwardX.cs
+* Challenge 2
+* Makes dogs move forward
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
