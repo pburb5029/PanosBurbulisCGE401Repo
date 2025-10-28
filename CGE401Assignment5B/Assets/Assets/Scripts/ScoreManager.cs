@@ -1,3 +1,10 @@
+/*
+* Panos Burbulis
+* ScoreManager.cs
+* Assignment 5B
+* Keeps track of score and ends game upon all crates destroyed
+*/
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -37,7 +44,7 @@ public class ScoreManager : MonoBehaviour
     void WinGame()
     {
         scoreText.text = "";
-        winText.text = "You Win! Press R to try again!";
+        winText.text = "You Win! \nPress R to try again!";
     }
 
     // Update is called once per frame

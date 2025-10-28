@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/PolygonStarter/Scenes/Demo.unity
-    guid: 5215016c20f88ea498985ac3e0ab4f9d
+    path: Assets/Scenes/Assignment 5B (Finished).unity
+    guid: a085abd543e4a1547bbb3e029a95a92c
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}

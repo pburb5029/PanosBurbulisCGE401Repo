@@ -1,3 +1,10 @@
+/*
+* Panos Burbulis
+* Target.cs
+* Assignment 5B
+* Gives crates health and destroys game object upon health depleted
+*/
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

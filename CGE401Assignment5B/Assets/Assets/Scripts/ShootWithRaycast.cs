@@ -1,3 +1,10 @@
+/*
+* Panos Burbulis
+* ShootWithRayCast.cs
+* Assignment 5B
+* Creates projectile raycast upon click and plays particle animations
+*/
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
