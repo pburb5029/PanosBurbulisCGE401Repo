@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+* Panagiotis Burbulis
+* TargetX.cs
+* Challenge 5
+* Initializes the game start and controls the object movements / player interaction. Defines spawn positions and explodes objects on player click
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

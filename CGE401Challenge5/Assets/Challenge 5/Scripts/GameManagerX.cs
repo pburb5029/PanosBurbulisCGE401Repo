@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+* Panagiotis Burbulis
+* GameManagerX.cs
+* Challenge 5
+* Manages the game. Allows for the game to be started, restarted, updates score, spawns objects, and defines game over conditions
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;

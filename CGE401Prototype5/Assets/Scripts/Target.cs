@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+* Panagiotis Burbulis
+* Target.cs
+* Protoype 5
+* Initializes the game start and controls the object movements / player interaction
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

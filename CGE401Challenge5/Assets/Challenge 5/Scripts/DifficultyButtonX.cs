@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+* Panagiotis Burbulis
+* DifficultyButtonX.cs
+* Challenge 5
+* Determines the difficulty (spawn rate) based on player button input
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
